@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_back1.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_back1.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italia_italia6.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italia_italia6.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican8.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican8.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italia_italian4.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italia_italian4.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_true.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_true.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_qr.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_qr.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_back5.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_back5.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_bag.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_bag.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa8.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa8.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_back.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_back.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italia_italian1.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italia_italian1.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa1.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa1.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican1.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican1.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italia_italian3.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italia_italian3.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican9.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican9.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.b10.app-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa2.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa2.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_add.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_add.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.b10.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_plus.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_plus.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican5.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican5.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italiaf.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italiaf.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa5.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa5.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican2.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican2.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_back4.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_back4.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_none.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_none.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.b10.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_x.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_x.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican3.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican3.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa3.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa3.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican6.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican6.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_back3.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_back3.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa6.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa6.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italia_italia5.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italia_italia5.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_menu.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_menu.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa4.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa4.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_minus.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_minus.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_back2.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_back2.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_tr1.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_tr1.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican4.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican4.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_bbb.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_bbb.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.b10.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usa_usa7.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usa_usa7.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.b10.app-res-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_mexican_mexican7.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_mexican_mexican7.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_usaf.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_usaf.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.b10.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.b10.app-merged_res-35:/drawable-mdpi_src_assets_images_italia_italian2.png.flat",
+        "source": "com.b10.app-res-29:/drawable-mdpi/src_assets_images_italia_italian2.png"
+    }
+]

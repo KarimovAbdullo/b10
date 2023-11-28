@@ -1,0 +1,7 @@
+#Sun Nov 26 22:58:57 UZT 2023
+base.0=D\:\\02.React-native\\100$\\b10\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=D\:\\02.React-native\\100$\\b10\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
