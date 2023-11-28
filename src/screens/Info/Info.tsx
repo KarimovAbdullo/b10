@@ -20,7 +20,7 @@ const InfoScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle={'dark-content'} />
-      <View style={{paddingTop: 30}}>
+      <View style={{paddingTop: 31}}>
         <Header />
 
         <Text style={styles.text}>Контакты </Text>
